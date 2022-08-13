@@ -1,2 +1,18 @@
-<h1> Hello, Deplyo from Jenkins</h1>
-<h2>Test von Negin Jigar</h2>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>JUST for TEST</p>
+
+</body>
+</html>
